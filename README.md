@@ -4,9 +4,9 @@
 This repository contains ideas and initial setups for data-centric projects aimed at leveraging data science and engineering technologies. Each project idea outlined below explores real-world applications, ranging from energy price forecasting to air quality monitoring. The projects are designed to use a mix of proven and emerging technologies to create robust, scalable solutions.
 
 ## Key Technologies
-- **Python**: Core programming language used for data processing, analysis, and automation.
+- **Python** Core language.
 - **SQL**: For structured data storage, retrieval, and manipulation.
-- **Spark**: Utilized for handling big data processing tasks.
+- **Spark**: Utilised for handling big data processing tasks.
   
 ### Possible Integrations
 - **Kafka**: To enable real-time data streaming and processing.
