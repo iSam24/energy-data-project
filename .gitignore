@@ -1,4 +1,8 @@
 # Ignore virtual environment folder
 data_env/
 
+# Ignore config file
+config.py
 
+# Ignore pycache
+__pycache__
